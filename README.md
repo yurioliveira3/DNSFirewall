@@ -8,4 +8,4 @@ Functions:
 - Packet Falsification (DNS Spoofing)
 
 To RUN:
-$sudo python3 DNSpoof_v4.py
+- $sudo python3 DNSpoof_v4.py
